@@ -1,0 +1,632 @@
+,driverStandingsId,raceId,driverId,driverPoints,driverPosition,wins,year,constructorId,driverName,constructorPosition,constructorPoints,constructorName
+0,355,35,1,98.0,1,5,2008,1,Lewis Hamilton,2,151.0,McLaren
+1,356,35,2,60.0,6,0,2008,2,Nick Heidfeld,3,135.0,BMW Sauber
+2,357,35,3,17.0,13,0,2008,3,Nico Rosberg,8,26.0,Williams
+3,358,35,4,61.0,5,2,2008,4,Fernando Alonso,4,80.0,Renault
+4,359,35,5,53.0,7,1,2008,1,Heikki Kovalainen,2,151.0,McLaren
+5,360,35,6,9.0,15,0,2008,3,Kazuki Nakajima,8,26.0,Williams
+6,361,35,7,4.0,17,0,2008,5,Sébastien Bourdais,6,39.0,Toro Rosso
+7,362,35,8,75.0,3,2,2008,6,Kimi Räikkönen,1,172.0,Ferrari
+8,363,35,9,75.0,4,1,2008,2,Robert Kubica,3,135.0,BMW Sauber
+9,364,35,15,31.0,9,0,2008,7,Jarno Trulli,5,56.0,Toyota
+10,365,35,17,21.0,11,0,2008,9,Mark Webber,7,29.0,Red Bull
+11,366,35,14,8.0,16,0,2008,9,David Coulthard,7,29.0,Red Bull
+12,367,35,18,3.0,18,0,2008,11,Jenson Button,9,14.0,Honda
+13,368,35,12,19.0,12,0,2008,4,Nelson Piquet Jr.,4,80.0,Renault
+14,369,35,21,0.0,19,0,2008,10,Giancarlo Fisichella,10,0.0,Force India
+15,370,35,22,11.0,14,0,2008,11,Rubens Barrichello,9,14.0,Honda
+16,373,35,13,97.0,2,6,2008,6,Felipe Massa,1,172.0,Ferrari
+17,374,35,10,25.0,10,0,2008,7,Timo Glock,5,56.0,Toyota
+18,375,35,16,0.0,20,0,2008,10,Adrian Sutil,10,0.0,Force India
+19,376,35,20,35.0,8,1,2008,5,Sebastian Vettel,6,39.0,Toro Rosso
+20,13972,52,8,110.0,1,6,2007,6,Kimi Räikkönen,1,204.0,Ferrari
+21,13996,52,6,0.0,22,0,2007,3,Kazuki Nakajima,4,33.0,Williams
+22,13995,52,29,0.0,24,0,2007,12,Sakon Yamamoto,10,1.0,Spyker
+23,13994,52,20,6.0,14,0,2007,5,Sebastian Vettel,7,8.0,Toro Rosso
+24,13993,52,14,14.0,10,0,2007,9,David Coulthard,5,24.0,Red Bull
+25,13991,52,9,39.0,6,0,2007,2,Robert Kubica,2,101.0,BMW Sauber
+26,13988,52,16,1.0,19,0,2007,12,Adrian Sutil,10,1.0,Spyker
+27,13987,52,19,0.0,23,0,2007,8,Anthony Davidson,9,4.0,Super Aguri
+28,13986,52,18,6.0,15,0,2007,11,Jenson Button,8,6.0,Honda
+29,13985,52,24,3.0,18,0,2007,5,Vitantonio Liuzzi,7,8.0,Toro Rosso
+30,13984,52,17,10.0,12,0,2007,9,Mark Webber,5,24.0,Red Bull
+31,13983,52,11,4.0,17,0,2007,8,Takuma Sato,9,4.0,Super Aguri
+32,13982,52,22,0.0,20,0,2007,11,Rubens Barrichello,8,6.0,Honda
+33,13981,52,5,30.0,7,0,2007,4,Heikki Kovalainen,3,51.0,Renault
+34,13980,52,15,8.0,13,0,2007,7,Jarno Trulli,6,13.0,Toyota
+35,13979,52,23,5.0,16,0,2007,7,Ralf Schumacher,6,13.0,Toyota
+36,13978,52,3,20.0,9,0,2007,3,Nico Rosberg,4,33.0,Williams
+37,13977,52,13,94.0,4,3,2007,6,Felipe Massa,1,204.0,Ferrari
+38,13975,52,2,61.0,5,0,2007,2,Nick Heidfeld,2,101.0,BMW Sauber
+39,13973,52,4,109.0,3,4,2007,1,Fernando Alonso,11,118.0,McLaren
+40,13228,70,29,0.0,26,0,2006,8,Sakon Yamamoto,11,0.0,Super Aguri
+41,13227,70,38,0.0,24,0,2006,9,Robert Doornbos,7,16.0,Red Bull
+42,13226,70,9,6.0,16,0,2006,2,Robert Kubica,5,36.0,BMW Sauber
+43,13225,70,37,19.0,11,0,2006,1,Pedro de la Rosa,3,110.0,McLaren
+44,13222,70,27,0.0,22,0,2006,14,Christijan Albers,12,0.0,Spyker MF1
+45,13220,70,21,72.0,4,1,2006,4,Giancarlo Fisichella,1,206.0,Renault
+46,13219,70,11,0.0,23,0,2006,8,Takuma Sato,11,0.0,Super Aguri
+47,13218,70,33,0.0,21,0,2006,14,Tiago Monteiro,12,0.0,Spyker MF1
+48,13217,70,15,15.0,12,0,2006,7,Jarno Trulli,6,35.0,Toyota
+49,13216,70,22,30.0,7,0,2006,11,Rubens Barrichello,4,86.0,Honda
+50,13215,70,23,20.0,10,0,2006,7,Ralf Schumacher,6,35.0,Toyota
+51,13214,70,26,0.0,20,0,2006,5,Scott Speed,9,1.0,Toro Rosso
+52,13213,70,2,23.0,9,0,2006,2,Nick Heidfeld,5,36.0,BMW Sauber
+53,13212,70,24,1.0,19,0,2006,5,Vitantonio Liuzzi,9,1.0,Toro Rosso
+54,13211,70,14,14.0,13,0,2006,9,David Coulthard,7,16.0,Red Bull
+55,13210,70,13,80.0,3,2,2006,6,Felipe Massa,2,201.0,Ferrari
+56,13208,70,3,4.0,17,0,2006,3,Nico Rosberg,8,11.0,Williams
+57,13207,70,17,7.0,14,0,2006,3,Mark Webber,8,11.0,Williams
+58,13205,70,18,56.0,6,1,2006,11,Jenson Button,4,86.0,Honda
+59,13204,70,8,65.0,5,0,2006,1,Kimi Räikkönen,3,110.0,McLaren
+60,13203,70,30,121.0,2,7,2006,6,Michael Schumacher,2,201.0,Ferrari
+61,13202,70,4,134.0,1,7,2006,4,Fernando Alonso,1,206.0,Renault
+62,1598,89,21,58.0,5,1,2005,4,Giancarlo Fisichella,1,191.0,Renault
+63,1599,89,22,38.0,8,0,2005,6,Rubens Barrichello,3,100.0,Ferrari
+64,1600,89,4,133.0,1,7,2005,4,Fernando Alonso,1,191.0,Renault
+65,1601,89,14,24.0,12,0,2005,9,David Coulthard,7,34.0,Red Bull
+66,1602,89,17,36.0,10,0,2005,3,Mark Webber,5,66.0,Williams
+67,1603,89,31,60.0,4,3,2005,1,Juan Pablo Montoya,2,182.0,McLaren
+68,1604,89,32,9.0,15,0,2005,9,Christian Klien,7,34.0,Red Bull
+69,1605,89,8,112.0,2,7,2005,1,Kimi Räikkönen,2,182.0,McLaren
+70,1606,89,15,43.0,7,0,2005,7,Jarno Trulli,4,88.0,Toyota
+71,1607,89,13,11.0,13,0,2005,15,Felipe Massa,8,20.0,Sauber
+72,1608,89,23,45.0,6,0,2005,7,Ralf Schumacher,4,88.0,Toyota
+73,1609,89,35,9.0,14,0,2005,15,Jacques Villeneuve,8,20.0,Sauber
+74,1610,89,39,5.0,18,0,2005,17,Narain Karthikeyan,9,12.0,Jordan
+75,1611,89,33,7.0,16,0,2005,17,Tiago Monteiro,9,12.0,Jordan
+76,1614,89,30,62.0,3,1,2005,6,Michael Schumacher,3,100.0,Ferrari
+77,1615,89,27,4.0,19,0,2005,18,Christijan Albers,10,7.0,Minardi
+78,1619,89,18,37.0,9,0,2005,16,Jenson Button,6,38.0,BAR
+79,1620,89,11,1.0,23,0,2005,16,Takuma Sato,6,38.0,BAR
+80,1621,89,38,0.0,25,0,2005,18,Robert Doornbos,10,7.0,Minardi
+81,1622,89,42,2.0,22,0,2005,3,Antônio Pizzonia,5,66.0,Williams
+82,12806,107,35,0.0,21,0,2004,4,Jacques Villeneuve,3,105.0,Renault
+83,12805,107,41,0.0,22,0,2004,7,Ricardo Zonta,8,9.0,Toyota
+84,12802,107,10,2.0,19,0,2004,17,Timo Glock,9,5.0,Jordan
+85,12801,107,8,45.0,7,1,2004,1,Kimi Räikkönen,5,69.0,McLaren
+86,12800,107,2,3.0,18,0,2004,17,Nick Heidfeld,9,5.0,Jordan
+87,12799,107,17,7.0,13,0,2004,19,Mark Webber,7,10.0,Jaguar
+88,12798,107,47,1.0,20,0,2004,18,Zsolt Baumgartner,10,1.0,Minardi
+89,12797,107,46,0.0,25,0,2004,18,Gianmaria Bruni,10,1.0,Minardi
+90,12796,107,13,12.0,12,0,2004,15,Felipe Massa,6,34.0,Sauber
+91,12792,107,32,3.0,16,0,2004,19,Christian Klien,7,10.0,Jaguar
+92,12791,107,21,22.0,11,0,2004,15,Giancarlo Fisichella,6,34.0,Sauber
+93,12790,107,11,34.0,8,0,2004,16,Takuma Sato,2,119.0,BAR
+94,12789,107,14,24.0,10,0,2004,1,David Coulthard,5,69.0,McLaren
+95,12788,107,15,46.0,6,1,2004,7,Jarno Trulli,8,9.0,Toyota
+96,12787,107,18,85.0,3,0,2004,16,Jenson Button,2,119.0,BAR
+97,12786,107,31,58.0,5,1,2004,3,Juan Pablo Montoya,4,88.0,Williams
+98,12785,107,23,24.0,9,0,2004,3,Ralf Schumacher,4,88.0,Williams
+99,12784,107,4,59.0,4,0,2004,4,Fernando Alonso,3,105.0,Renault
+100,12783,107,22,114.0,2,2,2004,6,Rubens Barrichello,1,262.0,Ferrari
+101,12782,107,30,148.0,1,13,2004,6,Michael Schumacher,1,262.0,Ferrari
+102,12421,123,11,3.0,18,0,2003,16,Takuma Sato,5,26.0,BAR
+103,12418,123,53,0.0,23,0,2003,18,Nicolas Kiesa,10,0.0,Minardi
+104,12417,123,51,1.0,20,0,2003,19,Justin Wilson,7,18.0,Jaguar
+105,12415,123,44,6.0,15,0,2003,7,Olivier Panis,8,16.0,Toyota
+106,12414,123,17,17.0,10,0,2003,19,Mark Webber,7,18.0,Jaguar
+107,12413,123,21,12.0,12,1,2003,17,Giancarlo Fisichella,9,13.0,Jordan
+108,12412,123,43,10.0,13,0,2003,7,Cristiano da Matta,8,16.0,Toyota
+109,12411,123,52,1.0,19,0,2003,17,Ralph Firman,9,13.0,Jordan
+110,12410,123,2,6.0,14,0,2003,15,Nick Heidfeld,6,19.0,Sauber
+111,12409,123,22,65.0,4,2,2003,6,Rubens Barrichello,1,158.0,Ferrari
+112,12408,123,50,0.0,22,0,2003,18,Jos Verstappen,10,0.0,Minardi
+113,12407,123,18,17.0,9,0,2003,16,Jenson Button,5,26.0,BAR
+114,12405,123,23,58.0,5,2,2003,3,Ralf Schumacher,2,144.0,Williams
+115,12404,123,4,55.0,6,1,2003,4,Fernando Alonso,4,88.0,Renault
+116,12403,123,49,13.0,11,0,2003,15,Heinz-Harald Frentzen,6,19.0,Sauber
+117,12402,123,15,33.0,8,0,2003,4,Jarno Trulli,4,88.0,Renault
+118,12401,123,30,93.0,1,6,2003,6,Michael Schumacher,1,158.0,Ferrari
+119,12400,123,8,91.0,2,1,2003,1,Kimi Räikkönen,3,142.0,McLaren
+120,12399,123,31,82.0,3,2,2003,3,Juan Pablo Montoya,2,144.0,Williams
+121,12398,123,14,51.0,7,1,2003,1,David Coulthard,3,142.0,McLaren
+122,12107,140,44,3.0,14,0,2002,16,Olivier Panis,8,7.0,BAR
+123,12105,140,15,9.0,8,0,2002,4,Jarno Trulli,4,23.0,Renault
+124,12104,140,22,77.0,2,4,2002,6,Rubens Barrichello,1,221.0,Ferrari
+125,12103,140,14,41.0,5,1,2002,1,David Coulthard,3,65.0,McLaren
+126,12102,140,21,7.0,11,0,2002,17,Giancarlo Fisichella,6,9.0,Jordan
+127,12100,140,11,2.0,15,0,2002,17,Takuma Sato,6,9.0,Jordan
+128,12099,140,35,4.0,12,0,2002,16,Jacques Villeneuve,8,7.0,BAR
+129,12098,140,66,0.0,19,0,2002,7,Allan McNish,10,2.0,Toyota
+130,12097,140,13,4.0,13,0,2002,15,Felipe Massa,5,11.0,Sauber
+131,12096,140,2,7.0,10,0,2002,15,Nick Heidfeld,5,11.0,Sauber
+132,12095,140,18,14.0,7,0,2002,4,Jenson Button,4,23.0,Renault
+133,12094,140,23,42.0,4,1,2002,3,Ralf Schumacher,2,92.0,Williams
+134,12093,140,37,0.0,21,0,2002,19,Pedro de la Rosa,7,8.0,Jaguar
+135,12092,140,62,0.0,20,0,2002,18,Alex Yoong,9,2.0,Minardi
+136,12091,140,63,2.0,17,0,2002,7,Mika Salo,10,2.0,Toyota
+137,12090,140,17,2.0,16,0,2002,18,Mark Webber,9,2.0,Minardi
+138,12089,140,56,8.0,9,0,2002,19,Eddie Irvine,7,8.0,Jaguar
+139,12088,140,8,24.0,6,0,2002,1,Kimi Räikkönen,3,65.0,McLaren
+140,12087,140,31,50.0,3,0,2002,3,Juan Pablo Montoya,2,92.0,Williams
+141,12086,140,30,144.0,1,11,2002,6,Michael Schumacher,1,221.0,Ferrari
+142,11763,157,62,0.0,26,0,2001,18,Alex Yoong,11,0.0,Minardi
+143,11762,157,61,0.0,24,0,2001,20,Tomáš Enge,9,4.0,Prost
+144,11760,157,37,3.0,16,0,2001,19,Pedro de la Rosa,8,9.0,Jaguar
+145,11759,157,31,31.0,6,1,2001,3,Juan Pablo Montoya,3,80.0,Williams
+146,11758,157,59,0.0,21,0,2001,21,Enrique Bernoldi,10,1.0,Arrows
+147,11757,157,35,12.0,7,0,2001,16,Jacques Villeneuve,6,17.0,BAR
+148,11754,157,18,2.0,17,0,2001,22,Jenson Button,7,10.0,Benetton
+149,11753,157,15,12.0,9,0,2001,17,Jarno Trulli,5,19.0,Jordan
+150,11752,157,57,37.0,5,2,2001,1,Mika Häkkinen,2,102.0,McLaren
+151,11751,157,23,49.0,4,3,2001,3,Ralf Schumacher,3,80.0,Williams
+152,11750,157,21,8.0,11,0,2001,22,Giancarlo Fisichella,7,10.0,Benetton
+153,11749,157,4,0.0,23,0,2001,18,Fernando Alonso,11,0.0,Minardi
+154,11748,157,56,6.0,12,0,2001,19,Eddie Irvine,8,9.0,Jaguar
+155,11747,157,50,1.0,18,0,2001,21,Jos Verstappen,10,1.0,Arrows
+156,11746,157,55,5.0,15,0,2001,17,Jean Alesi,5,19.0,Jordan
+157,11744,157,44,5.0,14,0,2001,16,Olivier Panis,6,17.0,BAR
+158,11743,157,8,9.0,10,0,2001,15,Kimi Räikkönen,4,21.0,Sauber
+159,11742,157,49,6.0,13,0,2001,20,Heinz-Harald Frentzen,9,4.0,Prost
+160,11741,157,2,12.0,8,0,2001,15,Nick Heidfeld,4,21.0,Sauber
+161,11740,157,22,56.0,3,0,2001,6,Rubens Barrichello,1,179.0,Ferrari
+162,11739,157,14,65.0,2,2,2001,1,David Coulthard,2,102.0,McLaren
+163,11738,157,30,123.0,1,9,2001,6,Michael Schumacher,1,179.0,Ferrari
+164,3415,174,30,108.0,1,9,2000,6,Michael Schumacher,1,170.0,Ferrari
+165,3416,174,22,62.0,4,1,2000,6,Rubens Barrichello,1,170.0,Ferrari
+166,3417,174,23,24.0,5,0,2000,3,Ralf Schumacher,3,36.0,Williams
+167,3418,174,35,17.0,7,0,2000,16,Jacques Villeneuve,5,20.0,BAR
+168,3419,174,21,18.0,6,0,2000,22,Giancarlo Fisichella,4,20.0,Benetton
+169,3420,174,41,3.0,14,0,2000,16,Ricardo Zonta,5,20.0,BAR
+170,3421,174,25,2.0,15,0,2000,22,Alexander Wurz,4,20.0,Benetton
+171,3422,174,48,0.0,19,0,2000,18,Marc Gené,10,0.0,Minardi
+172,3423,174,2,0.0,20,0,2000,20,Nick Heidfeld,11,0.0,Prost
+173,3424,174,49,11.0,9,0,2000,17,Heinz-Harald Frentzen,6,17.0,Jordan
+174,3425,174,15,6.0,10,0,2000,17,Jarno Trulli,6,17.0,Jordan
+175,3426,174,18,12.0,8,0,2000,3,Jenson Button,3,36.0,Williams
+176,3427,174,50,5.0,12,0,2000,21,Jos Verstappen,7,7.0,Arrows
+177,3428,174,37,2.0,16,0,2000,21,Pedro de la Rosa,7,7.0,Arrows
+178,3429,174,60,0.0,21,0,2000,18,Gastón Mazzacane,10,0.0,Minardi
+179,3430,174,57,89.0,2,4,2000,1,Mika Häkkinen,2,162.0,McLaren
+180,3431,174,14,73.0,3,3,2000,1,David Coulthard,2,162.0,McLaren
+181,3432,174,63,6.0,11,0,2000,15,Mika Salo,8,6.0,Sauber
+182,3433,174,56,4.0,13,0,2000,19,Eddie Irvine,9,4.0,Jaguar
+183,3434,174,64,0.0,18,0,2000,15,Pedro Diniz,8,6.0,Sauber
+184,3435,174,65,0.0,17,0,2000,19,Johnny Herbert,9,4.0,Jaguar
+185,3436,174,55,0.0,22,0,2000,20,Jean Alesi,11,0.0,Prost
+186,11380,190,35,0.0,21,0,1999,16,Jacques Villeneuve,11,0.0,BAR
+187,11379,190,41,0.0,22,0,1999,16,Ricardo Zonta,11,0.0,BAR
+188,11378,190,64,3.0,14,0,1999,15,Pedro Diniz,8,5.0,Sauber
+189,11377,190,15,7.0,11,0,1999,20,Jarno Trulli,7,9.0,Prost
+190,11376,190,70,0.0,19,0,1999,3,Alessandro Zanardi,5,35.0,Williams
+191,11375,190,65,15.0,8,1,1999,24,Johnny Herbert,4,36.0,Stewart
+192,11374,190,69,0.0,23,0,1999,18,Luca Badoer,10,1.0,Minardi
+193,11372,190,55,2.0,15,0,1999,15,Jean Alesi,8,5.0,Sauber
+194,11371,190,71,7.0,12,0,1999,17,Damon Hill,3,61.0,Jordan
+195,11370,190,14,48.0,4,2,1999,1,David Coulthard,2,124.0,McLaren
+196,11369,190,48,1.0,17,0,1999,18,Marc Gené,10,1.0,Minardi
+197,11368,190,25,3.0,13,0,1999,22,Alexander Wurz,6,16.0,Benetton
+198,11367,190,44,2.0,16,0,1999,20,Olivier Panis,7,9.0,Prost
+199,11366,190,57,76.0,1,5,1999,1,Mika Häkkinen,2,124.0,McLaren
+200,11365,190,30,44.0,5,2,1999,6,Michael Schumacher,1,128.0,Ferrari
+201,11364,190,68,0.0,20,0,1999,21,Toranosuke Takagi,9,1.0,Arrows
+202,11363,190,37,1.0,18,0,1999,21,Pedro de la Rosa,9,1.0,Arrows
+203,11362,190,22,21.0,7,0,1999,24,Rubens Barrichello,4,36.0,Stewart
+204,11361,190,21,13.0,9,0,1999,22,Giancarlo Fisichella,6,16.0,Benetton
+205,11360,190,23,35.0,6,0,1999,3,Ralf Schumacher,5,35.0,Williams
+206,11359,190,49,54.0,3,2,1999,17,Heinz-Harald Frentzen,3,61.0,Jordan
+207,11358,190,56,74.0,2,4,1999,6,Eddie Irvine,1,128.0,Ferrari
+208,4601,206,57,100.0,1,8,1998,1,Mika Häkkinen,1,156.0,McLaren
+209,4602,206,14,56.0,3,1,1998,1,David Coulthard,1,156.0,McLaren
+210,4603,206,49,17.0,7,0,1998,3,Heinz-Harald Frentzen,3,38.0,Williams
+211,4604,206,56,47.0,4,0,1998,6,Eddie Irvine,2,133.0,Ferrari
+212,4605,206,35,21.0,5,0,1998,3,Jacques Villeneuve,3,38.0,Williams
+213,4606,206,65,1.0,15,0,1998,15,Johnny Herbert,6,10.0,Sauber
+214,4607,206,25,17.0,8,0,1998,22,Alexander Wurz,5,33.0,Benetton
+215,4608,206,71,20.0,6,1,1998,17,Damon Hill,4,34.0,Jordan
+216,4609,206,44,0.0,22,0,1998,20,Olivier Panis,9,1.0,Prost
+217,4610,206,30,86.0,2,6,1998,6,Michael Schumacher,2,133.0,Ferrari
+218,4611,206,21,16.0,9,0,1998,22,Giancarlo Fisichella,5,33.0,Benetton
+219,4612,206,55,9.0,11,0,1998,15,Jean Alesi,6,10.0,Sauber
+220,4614,206,22,4.0,12,0,1998,24,Rubens Barrichello,8,5.0,Stewart
+221,4615,206,15,1.0,16,0,1998,20,Jarno Trulli,9,1.0,Prost
+222,4616,206,68,0.0,21,0,1998,25,Toranosuke Takagi,11,0.0,Tyrrell
+223,4617,206,75,0.0,18,0,1998,18,Shinji Nakano,10,0.0,Minardi
+224,4618,206,73,0.0,20,0,1998,25,Ricardo Rosset,11,0.0,Tyrrell
+225,4619,206,23,14.0,10,0,1998,17,Ralf Schumacher,4,34.0,Jordan
+226,4620,206,74,0.0,19,0,1998,18,Esteban Tuero,10,0.0,Minardi
+227,4621,206,63,3.0,13,0,1998,21,Mika Salo,7,6.0,Arrows
+228,4622,206,64,3.0,14,0,1998,21,Pedro Diniz,7,6.0,Arrows
+229,4623,206,50,0.0,23,0,1998,24,Jos Verstappen,8,5.0,Stewart
+230,11055,223,58,0.0,25,0,1997,18,Tarso Marques,11,0.0,Minardi
+231,11054,223,82,0.0,23,0,1997,15,Norberto Fontana,7,16.0,Sauber
+232,11051,223,22,6.0,13,0,1997,24,Rubens Barrichello,9,6.0,Stewart
+233,11050,223,76,0.0,20,0,1997,24,Jan Magnussen,9,6.0,Stewart
+234,11049,223,23,13.0,11,0,1997,17,Ralf Schumacher,5,33.0,Jordan
+235,11048,223,79,0.0,24,0,1997,18,Ukyo Katayama,11,0.0,Minardi
+236,11047,223,71,7.0,12,0,1997,21,Damon Hill,8,9.0,Arrows
+237,11046,223,56,24.0,7,0,1997,6,Eddie Irvine,2,102.0,Ferrari
+238,11045,223,50,0.0,21,0,1997,25,Jos Verstappen,10,2.0,Tyrrell
+239,11044,223,63,2.0,17,0,1997,25,Mika Salo,10,2.0,Tyrrell
+240,11043,223,21,20.0,8,0,1997,17,Giancarlo Fisichella,5,33.0,Jordan
+241,11042,223,65,15.0,10,0,1997,15,Johnny Herbert,7,16.0,Sauber
+242,11041,223,55,36.0,4,0,1997,22,Jean Alesi,3,67.0,Benetton
+243,11040,223,35,81.0,1,7,1997,3,Jacques Villeneuve,1,123.0,Williams
+244,11039,223,64,2.0,16,0,1997,21,Pedro Diniz,8,9.0,Arrows
+245,11037,223,49,42.0,2,1,1997,3,Heinz-Harald Frentzen,1,123.0,Williams
+246,11036,223,75,2.0,18,0,1997,20,Shinji Nakano,6,21.0,Prost
+247,11034,223,44,16.0,9,0,1997,20,Olivier Panis,6,21.0,Prost
+248,11033,223,77,27.0,5,1,1997,22,Gerhard Berger,3,67.0,Benetton
+249,11032,223,57,27.0,6,1,1997,1,Mika Häkkinen,4,63.0,McLaren
+250,11031,223,30,78.0,26,5,1997,6,Michael Schumacher,2,102.0,Ferrari
+251,11030,223,14,36.0,3,2,1997,1,David Coulthard,4,63.0,McLaren
+252,5358,239,71,97.0,1,8,1996,3,Damon Hill,1,175.0,Williams
+253,5359,239,35,78.0,2,4,1996,3,Jacques Villeneuve,1,175.0,Williams
+254,5360,239,56,11.0,10,0,1996,6,Eddie Irvine,2,70.0,Ferrari
+255,5361,239,77,21.0,6,0,1996,22,Gerhard Berger,3,68.0,Benetton
+256,5362,239,57,31.0,5,0,1996,1,Mika Häkkinen,4,49.0,McLaren
+257,5363,239,63,5.0,13,0,1996,25,Mika Salo,8,5.0,Tyrrell
+258,5364,239,44,13.0,9,1,1996,27,Olivier Panis,6,15.0,Ligier
+259,5365,239,49,7.0,12,0,1996,15,Heinz-Harald Frentzen,7,11.0,Sauber
+260,5366,239,73,0.0,18,0,1996,29,Ricardo Rosset,9,1.0,Footwork
+261,5367,239,64,2.0,15,0,1996,27,Pedro Diniz,6,15.0,Ligier
+262,5368,239,79,0.0,17,0,1996,25,Ukyo Katayama,8,5.0,Tyrrell
+263,5369,239,55,47.0,4,0,1996,22,Jean Alesi,3,68.0,Benetton
+264,5370,239,30,59.0,3,3,1996,6,Michael Schumacher,2,70.0,Ferrari
+265,5371,239,83,0.0,20,0,1996,18,Pedro Lamy,10,0.0,Minardi
+266,5373,239,84,8.0,11,0,1996,17,Martin Brundle,5,22.0,Jordan
+267,5374,239,22,14.0,8,0,1996,17,Rubens Barrichello,5,22.0,Jordan
+268,5375,239,50,1.0,16,0,1996,29,Jos Verstappen,9,1.0,Footwork
+269,5376,239,14,18.0,7,0,1996,1,David Coulthard,4,49.0,McLaren
+270,5377,239,65,4.0,14,0,1996,15,Johnny Herbert,7,11.0,Sauber
+271,5380,239,86,0.0,22,0,1996,18,Giovanni Lavaggi,10,0.0,Minardi
+272,10655,256,83,1.0,18,0,1995,18,Pedro Lamy,10,1.0,Minardi
+273,10654,256,92,0.0,26,0,1995,30,Bertrand Gachot,12,0.0,Pacific
+274,10653,256,90,0.0,32,0,1995,28,Roberto Moreno,11,0.0,Forti
+275,10652,256,89,0.0,24,0,1995,29,Taki Inoue,8,5.0,Footwork
+276,10650,256,91,0.0,28,0,1995,15,Karl Wendlinger,7,18.0,Sauber
+277,10648,256,84,7.0,13,0,1995,27,Martin Brundle,5,24.0,Ligier
+278,10647,256,22,11.0,11,0,1995,17,Rubens Barrichello,6,21.0,Jordan
+279,10646,256,69,0.0,23,0,1995,18,Luca Badoer,10,1.0,Minardi
+280,10645,256,81,5.0,14,0,1995,29,Gianni Morbidelli,8,5.0,Footwork
+281,10642,256,56,10.0,12,0,1995,17,Eddie Irvine,6,21.0,Jordan
+282,10640,256,79,0.0,20,0,1995,25,Ukyo Katayama,9,5.0,Tyrrell
+283,10639,256,44,16.0,8,0,1995,27,Olivier Panis,5,24.0,Ligier
+284,10638,256,49,15.0,9,0,1995,15,Heinz-Harald Frentzen,7,18.0,Sauber
+285,10637,256,65,45.0,4,2,1995,22,Johnny Herbert,1,147.0,Benetton
+286,10636,256,71,69.0,2,4,1995,3,Damon Hill,2,118.0,Williams
+287,10635,256,64,0.0,21,0,1995,28,Pedro Diniz,11,0.0,Forti
+288,10634,256,85,0.0,25,0,1995,30,Andrea Montermini,12,0.0,Pacific
+289,10632,256,63,5.0,15,0,1995,25,Mika Salo,9,5.0,Tyrrell
+290,10631,256,87,13.0,10,0,1995,1,Mark Blundell,4,30.0,McLaren
+291,10630,256,55,42.0,5,1,1995,6,Jean Alesi,3,73.0,Ferrari
+292,10629,256,57,17.0,7,0,1995,1,Mika Häkkinen,4,30.0,McLaren
+293,10628,256,77,31.0,6,0,1995,6,Gerhard Berger,3,73.0,Ferrari
+294,10627,256,14,49.0,3,1,1995,3,David Coulthard,2,118.0,Williams
+295,10626,256,30,102.0,1,9,1995,22,Michael Schumacher,1,147.0,Benetton
+296,66015,272,95,13.0,9,1,1994,3,Nigel Mansell,1,118.0,Williams
+297,66011,272,70,0.0,30,0,1994,32,Alessandro Zanardi,12,0.0,Team Lotus
+298,66010,272,109,1.0,24,0,1994,15,Jyrki Järvilehto,8,12.0,Sauber
+299,66006,272,108,0.0,39,0,1994,30,Paul Belmondo,14,0.0,Pacific
+300,66004,272,92,0.0,40,0,1994,30,Bertrand Gachot,14,0.0,Pacific
+301,66002,272,77,41.0,3,1,1994,6,Gerhard Berger,3,71.0,Ferrari
+302,66001,272,81,3.0,22,0,1994,29,Gianni Morbidelli,9,9.0,Footwork
+303,66000,272,105,1.0,25,0,1994,18,Michele Alboreto,10,5.0,Minardi
+304,65999,272,57,26.0,4,0,1994,1,Mika Häkkinen,4,42.0,McLaren
+305,65998,272,49,7.0,13,0,1994,15,Heinz-Harald Frentzen,8,12.0,Sauber
+306,65997,272,104,6.0,15,0,1994,29,Christian Fittipaldi,9,9.0,Footwork
+307,65996,272,87,8.0,12,0,1994,25,Mark Blundell,7,13.0,Tyrrell
+308,65993,272,56,6.0,16,0,1994,17,Eddie Irvine,5,28.0,Jordan
+309,65992,272,84,16.0,7,0,1994,1,Martin Brundle,4,42.0,McLaren
+310,65990,272,101,0.0,31,0,1994,31,David Brabham,13,0.0,Simtek
+311,65989,272,44,9.0,11,0,1994,27,Olivier Panis,6,13.0,Ligier
+312,65986,272,94,4.0,21,0,1994,18,Pierluigi Martini,10,5.0,Minardi
+313,65985,272,65,0.0,26,0,1994,22,Johnny Herbert,2,103.0,Benetton
+314,65983,272,79,5.0,17,0,1994,25,Ukyo Katayama,7,13.0,Tyrrell
+315,65982,272,22,19.0,6,0,1994,17,Rubens Barrichello,5,28.0,Jordan
+316,65981,272,55,24.0,5,0,1994,6,Jean Alesi,3,71.0,Ferrari
+317,65980,272,71,91.0,2,6,1994,3,Damon Hill,1,118.0,Williams
+318,65979,272,30,92.0,1,8,1994,22,Michael Schumacher,2,103.0,Benetton
+319,9738,288,126,0.0,31,0,1993,33,Toshio Suzuki,10,3.0,Larrousse
+320,9737,288,56,1.0,22,0,1993,17,Eddie Irvine,11,3.0,Jordan
+321,9736,288,57,4.0,15,0,1993,1,Mika Häkkinen,2,84.0,McLaren
+322,9735,288,83,0.0,30,0,1993,32,Pedro Lamy,6,12.0,Team Lotus
+323,9734,288,94,0.0,23,0,1993,18,Pierluigi Martini,8,7.0,Minardi
+324,9733,288,79,0.0,28,0,1993,25,Ukyo Katayama,13,0.0,Tyrrell
+325,9732,288,91,7.0,12,0,1993,15,Karl Wendlinger,7,12.0,Sauber
+326,9731,288,110,0.0,27,0,1993,25,Andrea de Cesaris,13,0.0,Tyrrell
+327,9728,288,88,0.0,24,0,1993,29,Aguri Suzuki,9,4.0,Footwork
+328,9727,288,84,13.0,7,0,1993,27,Martin Brundle,5,23.0,Ligier
+329,9726,288,22,2.0,18,0,1993,17,Rubens Barrichello,11,3.0,Jordan
+330,9724,288,119,20.0,5,0,1993,22,Riccardo Patrese,3,72.0,Benetton
+331,9721,288,100,1.0,21,0,1993,33,Érik Comas,10,3.0,Larrousse
+332,9720,288,55,16.0,6,0,1993,6,Jean Alesi,4,28.0,Ferrari
+333,9717,288,65,11.0,9,0,1993,32,Johnny Herbert,6,12.0,Team Lotus
+334,9716,288,30,52.0,4,1,1993,22,Michael Schumacher,3,72.0,Benetton
+335,9715,288,71,69.0,3,3,1993,3,Damon Hill,1,168.0,Williams
+336,9714,288,118,4.0,16,0,1993,29,Derek Warwick,9,4.0,Footwork
+337,9713,288,77,12.0,8,0,1993,6,Gerhard Berger,4,28.0,Ferrari
+338,9712,288,109,5.0,13,0,1993,15,Jyrki Järvilehto,7,12.0,Sauber
+339,9710,288,87,10.0,10,0,1993,27,Mark Blundell,5,23.0,Ligier
+340,9709,288,102,73.0,2,5,1993,1,Ayrton Senna,2,84.0,McLaren
+341,9708,288,117,99.0,1,7,1993,3,Alain Prost,1,168.0,Williams
+342,7215,304,95,108.0,1,9,1992,3,Nigel Mansell,1,164.0,Williams
+343,7216,304,119,56.0,2,1,1992,3,Riccardo Patrese,1,164.0,Williams
+344,7217,304,102,50.0,4,3,1992,1,Ayrton Senna,2,99.0,McLaren
+345,7218,304,30,53.0,3,1,1992,22,Michael Schumacher,3,91.0,Benetton
+346,7219,304,77,49.0,5,2,1992,1,Gerhard Berger,2,99.0,McLaren
+347,7220,304,65,2.0,15,0,1992,32,Johnny Herbert,5,13.0,Team Lotus
+348,7221,304,100,4.0,11,0,1992,27,Érik Comas,8,6.0,Ligier
+349,7222,304,88,0.0,20,0,1992,29,Aguri Suzuki,7,6.0,Footwork
+350,7223,304,57,11.0,8,0,1992,32,Mika Häkkinen,5,13.0,Team Lotus
+351,7224,304,105,6.0,10,0,1992,29,Michele Alboreto,7,6.0,Footwork
+352,7225,304,127,0.0,23,0,1992,17,Maurício Gugelmin,11,1.0,Jordan
+353,7226,304,79,0.0,25,0,1992,33,Ukyo Katayama,13,1.0,Larrousse
+354,7228,304,110,8.0,9,0,1992,25,Andrea de Cesaris,6,8.0,Tyrrell
+355,7229,304,109,0.0,21,0,1992,35,Jyrki Järvilehto,10,2.0,Dallara
+356,7230,304,123,2.0,14,0,1992,27,Thierry Boutsen,8,6.0,Ligier
+357,7231,304,92,1.0,19,0,1992,33,Bertrand Gachot,13,1.0,Larrousse
+358,7232,304,55,18.0,7,0,1992,6,Jean Alesi,4,21.0,Ferrari
+359,7234,304,81,0.0,22,0,1992,18,Gianni Morbidelli,12,1.0,Minardi
+360,7235,304,94,2.0,16,0,1992,35,Pierluigi Martini,10,2.0,Dallara
+361,7237,304,104,1.0,18,0,1992,18,Christian Fittipaldi,12,1.0,Minardi
+362,7239,304,84,38.0,6,0,1992,22,Martin Brundle,3,91.0,Benetton
+363,7240,304,129,0.0,24,0,1992,25,Olivier Grouillard,6,8.0,Tyrrell
+364,7244,304,125,0.0,28,0,1992,37,Emanuele Naspetti,9,3.0,March
+365,7245,304,131,1.0,17,0,1992,17,Stefano Modena,11,1.0,Jordan
+366,7246,304,78,0.0,29,0,1992,6,Nicola Larini,4,21.0,Ferrari
+367,7247,304,136,0.0,31,0,1992,37,Jan Lammers,9,3.0,March
+368,13976,52,21,21.0,8,0,2007,4,Giancarlo Fisichella,3,51.0,Renault
+369,13974,52,1,109.0,2,4,2007,1,Lewis Hamilton,11,118.0,McLaren
+370,29863,17,18,95.0,1,6,2009,23,Jenson Button,1,172.0,Brawn
+371,29864,17,22,77.0,3,2,2009,23,Rubens Barrichello,1,172.0,Brawn
+372,29865,17,15,32.5,8,0,2009,7,Jarno Trulli,5,59.5,Toyota
+373,29867,17,4,26.0,9,0,2009,4,Fernando Alonso,8,26.0,Renault
+374,29868,17,3,34.5,7,0,2009,3,Nico Rosberg,7,34.5,Williams
+375,29869,17,67,6.0,16,0,2009,5,Sébastien Buemi,10,8.0,Toro Rosso
+376,29871,17,16,5.0,17,0,2009,10,Adrian Sutil,9,13.0,Force India
+377,29872,17,2,19.0,13,0,2009,2,Nick Heidfeld,6,36.0,BMW Sauber
+378,29873,17,21,8.0,15,0,2009,6,Giancarlo Fisichella,4,70.0,Ferrari
+379,29874,17,17,69.5,4,2,2009,9,Mark Webber,2,153.5,Red Bull
+380,29875,17,20,84.0,2,4,2009,9,Sebastian Vettel,2,153.5,Red Bull
+381,29876,17,9,17.0,14,0,2009,2,Robert Kubica,6,36.0,BMW Sauber
+382,29877,17,8,48.0,6,1,2009,6,Kimi Räikkönen,4,70.0,Ferrari
+383,29880,17,6,0.0,20,0,2009,3,Kazuki Nakajima,7,34.5,Williams
+384,29881,17,5,22.0,12,0,2009,1,Heikki Kovalainen,3,71.0,McLaren
+385,29882,17,1,49.0,5,2,2009,1,Lewis Hamilton,3,71.0,McLaren
+386,29883,17,153,0.0,24,0,2009,5,Jaime Alguersuari,10,8.0,Toro Rosso
+387,29884,17,154,0.0,23,0,2009,4,Romain Grosjean,8,26.0,Renault
+388,29886,17,24,0.0,22,0,2009,10,Vitantonio Liuzzi,9,13.0,Force India
+389,29887,17,155,3.0,18,0,2009,7,Kamui Kobayashi,5,59.5,Toyota
+390,64291,355,4,252.0,2,5,2010,6,Fernando Alonso,3,396.0,Ferrari
+391,64292,355,13,144.0,6,0,2010,6,Felipe Massa,3,396.0,Ferrari
+392,64293,355,1,240.0,4,3,2010,1,Lewis Hamilton,2,454.0,McLaren
+393,64294,355,20,256.0,1,5,2010,9,Sebastian Vettel,1,498.0,Red Bull
+394,64295,355,3,142.0,7,0,2010,131,Nico Rosberg,4,214.0,Mercedes
+395,64296,355,30,72.0,9,0,2010,131,Michael Schumacher,4,214.0,Mercedes
+396,64297,355,18,214.0,5,2,2010,1,Jenson Button,2,454.0,McLaren
+397,64298,355,17,242.0,3,4,2010,9,Mark Webber,1,498.0,Red Bull
+398,64299,355,24,21.0,15,0,2010,10,Vitantonio Liuzzi,7,68.0,Force India
+399,64300,355,22,47.0,10,0,2010,3,Rubens Barrichello,6,69.0,Williams
+400,64301,355,9,136.0,8,0,2010,4,Robert Kubica,5,163.0,Renault
+401,64302,355,16,47.0,11,0,2010,10,Adrian Sutil,7,68.0,Force India
+402,64303,355,153,5.0,19,0,2010,5,Jaime Alguersuari,9,13.0,Toro Rosso
+403,64304,355,807,22.0,14,0,2010,3,Nico Hülkenberg,6,69.0,Williams
+404,64305,355,5,0.0,20,0,2010,205,Heikki Kovalainen,10,0.0,Lotus
+405,64306,355,67,8.0,16,0,2010,5,Sébastien Buemi,9,13.0,Toro Rosso
+406,64307,355,15,0.0,21,0,2010,205,Jarno Trulli,10,0.0,Lotus
+407,64309,355,811,0.0,23,0,2010,164,Bruno Senna,11,0.0,HRT
+408,64310,355,10,0.0,25,0,2010,166,Timo Glock,12,0.0,Virgin
+409,64311,355,808,27.0,13,0,2010,4,Vitaly Petrov,5,163.0,Renault
+410,64312,355,155,32.0,12,0,2010,15,Kamui Kobayashi,8,44.0,Sauber
+411,64313,355,810,0.0,24,0,2010,166,Lucas di Grassi,12,0.0,Virgin
+412,64316,355,2,6.0,18,0,2010,15,Nick Heidfeld,8,44.0,Sauber
+413,64317,355,32,0.0,27,0,2010,164,Christian Klien,11,0.0,HRT
+414,64878,859,20,392.0,1,11,2011,9,Sebastian Vettel,1,650.0,Red Bull
+415,64879,859,1,227.0,5,3,2011,1,Lewis Hamilton,2,497.0,McLaren
+416,64880,859,808,37.0,10,0,2011,4,Vitaly Petrov,5,73.0,Renault
+417,64881,859,4,257.0,4,1,2011,6,Fernando Alonso,3,375.0,Ferrari
+418,64882,859,17,258.0,3,1,2011,9,Mark Webber,1,650.0,Red Bull
+419,64883,859,18,270.0,2,3,2011,1,Jenson Button,2,497.0,McLaren
+420,64884,859,13,118.0,6,0,2011,6,Felipe Massa,3,375.0,Ferrari
+421,64885,859,67,15.0,15,0,2011,5,Sébastien Buemi,8,41.0,Toro Rosso
+422,64886,859,16,42.0,9,0,2011,10,Adrian Sutil,6,69.0,Force India
+423,64887,859,814,27.0,13,0,2011,10,Paul di Resta,6,69.0,Force India
+424,64888,859,153,26.0,14,0,2011,5,Jaime Alguersuari,8,41.0,Toro Rosso
+425,64890,859,15,0.0,21,0,2011,205,Jarno Trulli,10,0.0,Lotus
+426,64891,859,816,0.0,24,0,2011,166,Jérôme d'Ambrosio,12,0.0,Virgin
+427,64892,859,10,0.0,25,0,2011,166,Timo Glock,12,0.0,Virgin
+428,64893,859,22,4.0,17,0,2011,3,Rubens Barrichello,9,5.0,Williams
+429,64894,859,3,89.0,7,0,2011,131,Nico Rosberg,4,165.0,Mercedes
+430,64895,859,5,0.0,22,0,2011,205,Heikki Kovalainen,10,0.0,Lotus
+431,64896,859,30,76.0,8,0,2011,131,Michael Schumacher,4,165.0,Mercedes
+432,64897,859,813,1.0,19,0,2011,3,Pastor Maldonado,9,5.0,Williams
+433,64898,859,155,30.0,12,0,2011,15,Kamui Kobayashi,7,44.0,Sauber
+434,64899,859,24,0.0,23,0,2011,164,Vitantonio Liuzzi,11,0.0,HRT
+435,64900,859,815,14.0,16,0,2011,15,Sergio Pérez,7,44.0,Sauber
+436,64903,859,817,0.0,27,0,2011,164,Daniel Ricciardo,11,0.0,HRT
+437,64905,859,811,2.0,18,0,2011,4,Bruno Senna,5,73.0,Renault
+438,65490,879,18,188.0,5,3,2012,1,Jenson Button,3,378.0,McLaren
+439,65491,879,20,281.0,1,5,2012,9,Sebastian Vettel,1,460.0,Red Bull
+440,65492,879,1,190.0,4,4,2012,1,Lewis Hamilton,3,378.0,McLaren
+441,65493,879,17,179.0,6,2,2012,9,Mark Webber,1,460.0,Red Bull
+442,65494,879,4,278.0,2,3,2012,6,Fernando Alonso,2,400.0,Ferrari
+443,65495,879,155,60.0,12,0,2012,15,Kamui Kobayashi,6,126.0,Sauber
+444,65496,879,8,207.0,3,1,2012,208,Kimi Räikkönen,4,303.0,Lotus F1
+445,65497,879,815,66.0,10,0,2012,15,Sergio Pérez,6,126.0,Sauber
+446,65498,879,817,10.0,18,0,2012,5,Daniel Ricciardo,9,26.0,Toro Rosso
+447,65499,879,814,46.0,14,0,2012,10,Paul di Resta,7,109.0,Force India
+448,65500,879,818,16.0,17,0,2012,5,Jean-Éric Vergne,9,26.0,Toro Rosso
+449,65501,879,3,93.0,9,1,2012,131,Nico Rosberg,5,142.0,Mercedes
+450,65502,879,813,45.0,15,1,2012,3,Pastor Maldonado,8,76.0,Williams
+451,65503,879,10,0.0,20,0,2012,206,Timo Glock,11,0.0,Marussia
+452,65504,879,819,0.0,21,0,2012,206,Charles Pic,11,0.0,Marussia
+453,65505,879,811,31.0,16,0,2012,3,Bruno Senna,8,76.0,Williams
+454,65506,879,13,122.0,7,0,2012,6,Felipe Massa,2,400.0,Ferrari
+455,65507,879,5,0.0,22,0,2012,207,Heikki Kovalainen,10,0.0,Caterham
+456,65508,879,808,0.0,19,0,2012,207,Vitaly Petrov,10,0.0,Caterham
+457,65509,879,30,49.0,13,0,2012,131,Michael Schumacher,5,142.0,Mercedes
+458,65510,879,154,96.0,8,0,2012,208,Romain Grosjean,4,303.0,Lotus F1
+459,65511,879,807,63.0,11,0,2012,10,Nico Hülkenberg,7,109.0,Force India
+460,65512,879,37,0.0,25,0,2012,164,Pedro de la Rosa,12,0.0,HRT
+461,65513,879,39,0.0,24,0,2012,164,Narain Karthikeyan,12,0.0,HRT
+462,65957,899,4,242.0,2,2,2013,6,Fernando Alonso,3,354.0,Ferrari
+463,65958,899,20,397.0,1,13,2013,9,Sebastian Vettel,1,596.0,Red Bull
+464,65959,899,13,112.0,8,0,2013,6,Felipe Massa,3,354.0,Ferrari
+465,65960,899,1,189.0,4,1,2013,131,Lewis Hamilton,2,360.0,Mercedes
+466,65961,899,17,199.0,3,0,2013,9,Mark Webber,1,596.0,Red Bull
+467,65962,899,16,29.0,13,0,2013,10,Adrian Sutil,6,77.0,Force India
+468,65963,899,814,48.0,12,0,2013,10,Paul di Resta,6,77.0,Force India
+469,65964,899,18,73.0,9,0,2013,1,Jenson Button,5,122.0,McLaren
+470,65965,899,154,132.0,7,0,2013,208,Romain Grosjean,4,315.0,Lotus F1
+471,65966,899,815,49.0,11,0,2013,1,Sergio Pérez,5,122.0,McLaren
+472,65967,899,818,13.0,15,0,2013,5,Jean-Éric Vergne,8,33.0,Toro Rosso
+473,65968,899,821,6.0,16,0,2013,15,Esteban Gutiérrez,7,57.0,Sauber
+474,65969,899,822,4.0,17,0,2013,3,Valtteri Bottas,9,5.0,Williams
+475,65970,899,824,0.0,19,0,2013,206,Jules Bianchi,10,0.0,Marussia
+476,65971,899,819,0.0,20,0,2013,207,Charles Pic,11,0.0,Caterham
+477,65972,899,820,0.0,23,0,2013,206,Max Chilton,10,0.0,Marussia
+478,65973,899,823,0.0,21,0,2013,207,Giedo van der Garde,11,0.0,Caterham
+479,65974,899,817,20.0,14,0,2013,5,Daniel Ricciardo,8,33.0,Toro Rosso
+480,65975,899,3,171.0,6,2,2013,131,Nico Rosberg,2,360.0,Mercedes
+481,65976,899,813,1.0,18,0,2013,3,Pastor Maldonado,9,5.0,Williams
+482,65977,899,807,51.0,10,0,2013,15,Nico Hülkenberg,7,57.0,Sauber
+483,65978,899,5,0.0,22,0,2013,208,Heikki Kovalainen,4,315.0,Lotus F1
+484,66019,272,93,0.0,37,0,1994,31,Domenico Schiattarella,13,0.0,Simtek
+485,66020,272,115,0.0,44,0,1994,33,Hideki Noda,11,2.0,Larrousse
+486,66021,272,63,0.0,32,0,1994,32,Mika Salo,12,0.0,Team Lotus
+487,66022,272,116,0.0,33,0,1994,27,Franck Lagorce,6,13.0,Ligier
+488,66024,272,98,0.0,41,0,1994,33,Jean-Denis Délétraz,11,2.0,Larrousse
+489,67016,918,3,317.0,2,5,2014,131,Nico Rosberg,1,701.0,Mercedes
+490,67017,918,825,55.0,11,0,2014,1,Kevin Magnussen,5,181.0,McLaren
+491,67018,918,18,126.0,8,0,2014,1,Jenson Button,5,181.0,McLaren
+492,67019,918,4,161.0,6,0,2014,6,Fernando Alonso,4,216.0,Ferrari
+493,67020,918,822,186.0,4,0,2014,3,Valtteri Bottas,3,320.0,Williams
+494,67021,918,807,96.0,9,0,2014,10,Nico Hülkenberg,6,155.0,Force India
+495,67022,918,8,55.0,12,0,2014,6,Kimi Räikkönen,4,216.0,Ferrari
+496,67023,918,818,22.0,13,0,2014,5,Jean-Éric Vergne,7,30.0,Toro Rosso
+497,67024,918,826,8.0,15,0,2014,5,Daniil Kvyat,7,30.0,Toro Rosso
+498,67025,918,815,59.0,10,0,2014,10,Sergio Pérez,6,155.0,Force India
+499,67026,918,16,0.0,18,0,2014,15,Adrian Sutil,10,0.0,Sauber
+500,67027,918,821,0.0,20,0,2014,15,Esteban Gutiérrez,10,0.0,Sauber
+501,67030,918,154,8.0,14,0,2014,208,Romain Grosjean,8,10.0,Lotus F1
+502,67031,918,813,2.0,16,0,2014,208,Pastor Maldonado,8,10.0,Lotus F1
+503,67033,918,20,167.0,5,0,2014,9,Sebastian Vettel,2,405.0,Red Bull
+504,67034,918,1,384.0,1,11,2014,131,Lewis Hamilton,1,701.0,Mercedes
+505,67035,918,13,134.0,7,0,2014,3,Felipe Massa,3,320.0,Williams
+506,67036,918,155,0.0,22,0,2014,207,Kamui Kobayashi,11,0.0,Caterham
+507,67037,918,817,238.0,3,3,2014,9,Daniel Ricciardo,2,405.0,Red Bull
+508,67039,918,829,0.0,23,0,2014,207,Will Stevens,11,0.0,Caterham
+509,67527,945,1,381.0,1,10,2015,131,Lewis Hamilton,1,703.0,Mercedes
+510,67528,945,3,322.0,2,6,2015,131,Nico Rosberg,1,703.0,Mercedes
+511,67529,945,20,278.0,3,3,2015,6,Sebastian Vettel,2,428.0,Ferrari
+512,67530,945,13,121.0,6,0,2015,3,Felipe Massa,3,257.0,Williams
+513,67531,945,831,27.0,13,0,2015,15,Felipe Nasr,8,36.0,Sauber
+514,67532,945,817,92.0,8,0,2015,9,Daniel Ricciardo,4,187.0,Red Bull
+515,67533,945,807,58.0,10,0,2015,10,Nico Hülkenberg,5,136.0,Force India
+516,67534,945,828,9.0,18,0,2015,15,Marcus Ericsson,8,36.0,Sauber
+517,67535,945,832,18.0,15,0,2015,5,Carlos Sainz,7,67.0,Toro Rosso
+518,67536,945,815,78.0,9,0,2015,10,Sergio Pérez,5,136.0,Force India
+519,67537,945,18,16.0,16,0,2015,1,Jenson Button,9,27.0,McLaren
+520,67538,945,8,150.0,4,0,2015,6,Kimi Räikkönen,2,428.0,Ferrari
+521,67539,945,830,49.0,12,0,2015,5,Max Verstappen,7,67.0,Toro Rosso
+522,67540,945,154,51.0,11,0,2015,208,Romain Grosjean,6,78.0,Lotus F1
+523,67541,945,813,27.0,14,0,2015,208,Pastor Maldonado,6,78.0,Lotus F1
+524,67542,945,826,95.0,7,0,2015,9,Daniil Kvyat,4,187.0,Red Bull
+525,67544,945,822,136.0,5,0,2015,3,Valtteri Bottas,3,257.0,Williams
+526,67545,945,833,0.0,19,0,2015,209,Roberto Merhi,10,0.0,Manor Marussia
+527,67546,945,4,11.0,17,0,2015,1,Fernando Alonso,9,27.0,McLaren
+528,67547,945,829,0.0,21,0,2015,209,Will Stevens,10,0.0,Manor Marussia
+529,68132,968,3,385.0,1,9,2016,131,Nico Rosberg,1,765.0,Mercedes
+530,68133,968,1,380.0,2,10,2016,131,Lewis Hamilton,1,765.0,Mercedes
+531,68134,968,20,212.0,4,0,2016,6,Sebastian Vettel,3,398.0,Ferrari
+532,68135,968,817,256.0,3,1,2016,9,Daniel Ricciardo,2,468.0,Red Bull
+533,68136,968,13,53.0,11,0,2016,3,Felipe Massa,5,138.0,Williams
+534,68137,968,154,29.0,13,0,2016,210,Romain Grosjean,8,29.0,Haas F1 Team
+535,68138,968,807,72.0,9,0,2016,10,Nico Hülkenberg,4,173.0,Force India
+536,68139,968,822,85.0,8,0,2016,3,Valtteri Bottas,5,138.0,Williams
+537,68140,968,832,46.0,12,0,2016,5,Carlos Sainz,7,63.0,Toro Rosso
+538,68141,968,830,204.0,5,1,2016,9,Max Verstappen,2,468.0,Red Bull
+539,68142,968,835,1.0,18,0,2016,4,Jolyon Palmer,9,8.0,Renault
+540,68143,968,825,7.0,16,0,2016,4,Kevin Magnussen,9,8.0,Renault
+541,68144,968,815,101.0,7,0,2016,10,Sergio Pérez,4,173.0,Force India
+542,68145,968,18,21.0,15,0,2016,1,Jenson Button,6,76.0,McLaren
+543,68146,968,831,2.0,17,0,2016,15,Felipe Nasr,10,2.0,Sauber
+544,68147,968,836,1.0,19,0,2016,209,Pascal Wehrlein,11,1.0,Manor Marussia
+545,68148,968,828,0.0,22,0,2016,15,Marcus Ericsson,10,2.0,Sauber
+546,68149,968,8,186.0,6,0,2016,6,Kimi Räikkönen,3,398.0,Ferrari
+547,68151,968,821,0.0,21,0,2016,210,Esteban Gutiérrez,8,29.0,Haas F1 Team
+548,68152,968,4,54.0,10,0,2016,1,Fernando Alonso,6,76.0,McLaren
+549,68153,968,826,25.0,14,0,2016,5,Daniil Kvyat,7,63.0,Toro Rosso
+550,68155,968,839,0.0,23,0,2016,209,Esteban Ocon,11,1.0,Manor Marussia
+551,68584,988,20,317.0,2,5,2017,6,Sebastian Vettel,2,522.0,Ferrari
+552,68585,988,1,363.0,1,9,2017,131,Lewis Hamilton,1,668.0,Mercedes
+553,68586,988,822,305.0,3,3,2017,131,Valtteri Bottas,1,668.0,Mercedes
+554,68587,988,8,205.0,4,0,2017,6,Kimi Räikkönen,2,522.0,Ferrari
+555,68588,988,830,168.0,6,2,2017,9,Max Verstappen,3,368.0,Red Bull
+556,68589,988,13,43.0,11,0,2017,3,Felipe Massa,5,83.0,Williams
+557,68590,988,815,100.0,7,0,2017,10,Sergio Pérez,4,187.0,Force India
+558,68591,988,832,54.0,9,0,2017,4,Carlos Sainz,6,57.0,Renault
+559,68593,988,839,87.0,8,0,2017,10,Esteban Ocon,4,187.0,Force India
+560,68594,988,807,43.0,10,0,2017,4,Nico Hülkenberg,6,57.0,Renault
+561,68596,988,838,13.0,16,0,2017,1,Stoffel Vandoorne,9,30.0,McLaren
+562,68597,988,4,17.0,15,0,2017,1,Fernando Alonso,9,30.0,McLaren
+563,68598,988,825,19.0,14,0,2017,210,Kevin Magnussen,8,47.0,Haas F1 Team
+564,68599,988,840,40.0,12,0,2017,3,Lance Stroll,5,83.0,Williams
+565,68600,988,817,200.0,5,1,2017,9,Daniel Ricciardo,3,368.0,Red Bull
+566,68601,988,828,0.0,20,0,2017,15,Marcus Ericsson,10,5.0,Sauber
+567,68603,988,154,28.0,13,0,2017,210,Romain Grosjean,8,47.0,Haas F1 Team
+568,68604,988,836,5.0,18,0,2017,15,Pascal Wehrlein,10,5.0,Sauber
+569,68607,988,842,0.0,21,0,2017,5,Pierre Gasly,7,53.0,Toro Rosso
+570,68608,988,843,0.0,23,0,2017,5,Brendon Hartley,7,53.0,Toro Rosso
+571,69109,1009,20,320.0,2,5,2018,6,Sebastian Vettel,2,571.0,Ferrari
+572,69110,1009,1,408.0,1,11,2018,131,Lewis Hamilton,1,655.0,Mercedes
+573,69111,1009,8,251.0,3,1,2018,6,Kimi Räikkönen,2,571.0,Ferrari
+574,69112,1009,817,170.0,6,2,2018,9,Daniel Ricciardo,3,419.0,Red Bull
+575,69113,1009,4,50.0,11,0,2018,1,Fernando Alonso,6,62.0,McLaren
+576,69114,1009,830,249.0,4,2,2018,9,Max Verstappen,3,419.0,Red Bull
+577,69115,1009,807,69.0,7,0,2018,4,Nico Hülkenberg,4,122.0,Renault
+578,69116,1009,822,247.0,5,0,2018,131,Valtteri Bottas,1,655.0,Mercedes
+579,69117,1009,838,12.0,16,0,2018,1,Stoffel Vandoorne,6,62.0,McLaren
+580,69118,1009,832,53.0,10,0,2018,4,Carlos Sainz,4,122.0,Renault
+581,69119,1009,815,62.0,8,0,2018,10,Sergio Pérez,7,52.0,Force India
+582,69120,1009,839,49.0,12,0,2018,10,Esteban Ocon,7,52.0,Force India
+583,69121,1009,844,39.0,13,0,2018,15,Charles Leclerc,8,48.0,Sauber
+584,69122,1009,840,6.0,18,0,2018,3,Lance Stroll,10,7.0,Williams
+585,69123,1009,843,4.0,19,0,2018,5,Brendon Hartley,9,33.0,Toro Rosso
+586,69124,1009,154,37.0,14,0,2018,210,Romain Grosjean,5,93.0,Haas F1 Team
+587,69125,1009,825,56.0,9,0,2018,210,Kevin Magnussen,5,93.0,Haas F1 Team
+588,69126,1009,842,29.0,15,0,2018,5,Pierre Gasly,9,33.0,Toro Rosso
+589,69127,1009,828,9.0,17,0,2018,15,Marcus Ericsson,8,48.0,Sauber
+590,69128,1009,845,1.0,20,0,2018,3,Sergey Sirotkin,10,7.0,Williams
+591,69729,1030,822,326.0,2,4,2019,131,Valtteri Bottas,1,739.0,Mercedes
+592,69730,1030,1,413.0,1,11,2019,131,Lewis Hamilton,1,739.0,Mercedes
+593,69731,1030,830,278.0,3,3,2019,9,Max Verstappen,3,417.0,Red Bull
+594,69732,1030,20,240.0,5,1,2019,6,Sebastian Vettel,2,504.0,Ferrari
+595,69733,1030,844,264.0,4,2,2019,6,Charles Leclerc,2,504.0,Ferrari
+596,69734,1030,825,20.0,16,0,2019,210,Kevin Magnussen,9,28.0,Haas F1 Team
+597,69735,1030,807,37.0,14,0,2019,4,Nico Hülkenberg,5,91.0,Renault
+598,69736,1030,8,43.0,12,0,2019,51,Kimi Räikkönen,8,57.0,Alfa Romeo
+599,69737,1030,840,21.0,15,0,2019,211,Lance Stroll,7,73.0,Racing Point
+600,69738,1030,826,37.0,13,0,2019,5,Daniil Kvyat,6,85.0,Toro Rosso
+601,69739,1030,842,95.0,7,0,2019,5,Pierre Gasly,6,85.0,Toro Rosso
+602,69740,1030,846,49.0,11,0,2019,1,Lando Norris,4,145.0,McLaren
+603,69741,1030,815,52.0,10,0,2019,211,Sergio Pérez,7,73.0,Racing Point
+604,69742,1030,848,92.0,8,0,2019,9,Alexander Albon,3,417.0,Red Bull
+605,69743,1030,841,14.0,17,0,2019,51,Antonio Giovinazzi,8,57.0,Alfa Romeo
+606,69744,1030,847,0.0,20,0,2019,3,George Russell,10,1.0,Williams
+607,69745,1030,9,1.0,19,0,2019,3,Robert Kubica,10,1.0,Williams
+608,69746,1030,154,8.0,18,0,2019,210,Romain Grosjean,9,28.0,Haas F1 Team
+609,69747,1030,817,54.0,9,0,2019,4,Daniel Ricciardo,5,91.0,Renault
+610,69748,1030,832,96.0,6,0,2019,1,Carlos Sainz,4,145.0,McLaren
+611,70206,1047,830,214.0,3,2,2020,9,Max Verstappen,2,319.0,Red Bull
+612,70205,1047,817,119.0,5,0,2020,4,Daniel Ricciardo,5,181.0,Renault
+613,70203,1047,825,1.0,20,0,2020,210,Kevin Magnussen,9,3.0,Haas F1 Team
+614,70201,1047,847,3.0,18,0,2020,3,George Russell,10,0.0,Williams
+615,70198,1047,826,32.0,14,0,2020,213,Daniil Kvyat,7,107.0,AlphaTauri
+616,70196,1047,20,33.0,13,0,2020,6,Sebastian Vettel,6,131.0,Ferrari
+617,70194,1047,839,62.0,12,0,2020,4,Esteban Ocon,5,181.0,Renault
+618,70192,1047,815,125.0,4,1,2020,211,Sergio Pérez,4,195.0,Racing Point
+619,70190,1047,1,347.0,1,11,2020,131,Lewis Hamilton,1,573.0,Mercedes
+620,70191,1047,832,105.0,6,0,2020,1,Carlos Sainz,3,202.0,McLaren
+621,70193,1047,842,75.0,10,1,2020,213,Pierre Gasly,7,107.0,AlphaTauri
+622,70209,1047,850,0.0,23,0,2020,210,Pietro Fittipaldi,9,3.0,Haas F1 Team
+623,70195,1047,841,4.0,17,0,2020,51,Antonio Giovinazzi,8,8.0,Alfa Romeo
+624,70204,1047,840,75.0,11,0,2020,211,Lance Stroll,4,195.0,Racing Point
+625,70189,1047,846,97.0,9,0,2020,1,Lando Norris,3,202.0,McLaren
+626,70200,1047,8,4.0,16,0,2020,51,Kimi Räikkönen,8,8.0,Alfa Romeo
+627,70199,1047,848,105.0,7,0,2020,9,Alexander Albon,2,319.0,Red Bull
+628,70197,1047,849,0.0,21,0,2020,3,Nicholas Latifi,10,0.0,Williams
+629,70188,1047,844,98.0,8,0,2020,6,Charles Leclerc,6,131.0,Ferrari
+630,70187,1047,822,223.0,2,2,2020,131,Valtteri Bottas,1,573.0,Mercedes
